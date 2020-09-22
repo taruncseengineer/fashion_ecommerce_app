@@ -1,6 +1,11 @@
-# ecommerce
+# Flutter_Ecommerce
 
-A new Flutter project.
+FashionEcommerce is ecommerce app that using flutter + firebase.
+features:-
+1.login and singup with email and password.
+2.Main Page(images,name,discription,size,old prize and new prize).that fetch the data from cloud database
+3.Add to Cart
+
 
 ## Getting Started
 
